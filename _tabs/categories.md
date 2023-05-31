@@ -1,5 +1,5 @@
 ---
-layout: categories
-icon: fas fa-stream
+title: "categories"
 order: 1
+permalink: /categories.html
 ---

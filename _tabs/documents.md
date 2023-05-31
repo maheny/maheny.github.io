@@ -1,10 +1,14 @@
 ---
-layout: "page"
-title: Creating This Website
-
+title: "documents"
+permalink: /documents.html
 ---
 
 ## CCoE Wiki
+
+[Go to subfolder1](./_tabs/about)<br>
+[Go to subfolder2](./_tabs/about)<br> 
+[Go to subfolder3](./_tabs/about)<br> 
+
 
 
 This is a test website created to store CCoE documents.  
@@ -13,7 +17,7 @@ Test paragraph
 
         Test line
 
->Directories  
+>Directories  `
 >Files  
 >Scripts
 
